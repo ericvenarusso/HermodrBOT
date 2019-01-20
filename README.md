@@ -14,3 +14,6 @@ The bot will get all the id_users that are in his conversation history and will 
 To execute the code you just need to execute the HermodrMain.
 </br>
 ```python3 HermodrMain.py``` 
+
+## Result
+![alt text](https://i.imgur.com/W6ZnwNB.png)
